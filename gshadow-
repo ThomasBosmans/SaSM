@@ -53,3 +53,4 @@ postdrop:!::
 uuidd:!::
 crontab:!*::
 rdma:!::
+tcpdump:!::
