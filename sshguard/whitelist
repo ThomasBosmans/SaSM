@@ -4,3 +4,15 @@
 # Address blocks in CIDR notation
 127.0.0.0/8
 ::1/128
+
+
+
+#Ip addresses yoda.uclllabs.be
+193.191.177.12
+2001:6a8:2880:a021::12
+
+#Ip address eduroam
+10.25.166.239
+
+#Ip addres thuis
+193.191.187.5
