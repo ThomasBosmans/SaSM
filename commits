@@ -1,0 +1,21 @@
+
+
+#My 5 commits for the first deadline
+
+
+
+
+#01: Comment out/remove unnecesarry/wrong lines for unattended updates
+285f67e1a8f0108dc965db0b9659b68891ec40c7 
+
+#02: give sudo rights to user "check"
+5f00650eb971b70d9bb70897116d10c11fbbba8a 
+
+#03: Change locale settings
+73ee8c7f79d098cb4be3bc66b35102c4795532df
+
+#04: install monitoring-plugins-basic and install net-tools
+87860ba976b2cb41dde74177428930bc8b62628f
+
+#05: Adding incron and backup script
+eb6c1c1a1470abe164a1c4976e4675e3aa8f0d9d
